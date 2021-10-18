@@ -3,5 +3,6 @@ Pets.
 Cat
 Fish
 Dog
+Hamster
 Bunny
 Different pets for different people.
