@@ -5,4 +5,5 @@ Fish
 Dog
 Hamster
 Bunny
+Mouse
 Different pets for different people.
